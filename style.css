@@ -56,7 +56,7 @@ nav a:hover{
 
 nav p{
     padding: 2rem;
-    color: #D2C49E;
+    font-size: #D2C49E;
 }
 
 @media (max-width:980px){
