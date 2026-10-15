@@ -54,6 +54,11 @@ nav a:hover{
     text-decoration: underline;
 }
 
+nav p{
+    padding: 2rem;
+    color: #D2C49E;
+}
+
 @media (max-width:980px){
     #gallery{
         display: grid;
